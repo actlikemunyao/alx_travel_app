@@ -1,0 +1,10 @@
+alx_travel_app/
+├── alx_travel_app/
+├── listings/
+│   ├── admin.py
+│   ├── apps.py
+│   ├── migrations/
+│   ├── models.py
+│   ├── tests.py
+│   ├── views.py
+│   └── __init__.py
